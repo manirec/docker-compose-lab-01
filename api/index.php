@@ -1,7 +1,7 @@
 <?php
 // Set the response content type to JSON
 header('Content-Type: application/json');
-header('Access-Control-Allow-Origin: http://54.80.237.167:3000');
+header('Access-Control-Allow-Origin: http://35.88.221.35:7681');
 header('Access-Control-Allow-Methods: GET, POST, OPTIONS');
 
 require "./app/config.php";
